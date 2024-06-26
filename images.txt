@@ -1,1 +1,1 @@
-elastic/filebeat:8.14.1
+vlinevych/music-downloader-ui:202403312202
