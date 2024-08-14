@@ -1,1 +1,5 @@
-zabbix/zabbix-agent2
+prom/prometheus:v2.45.5
+google/cadvisor:latest
+prom/alertmanager:v0.27.0
+prom/node-exporter:v1.8.0
+grafana/grafana:9.3.16
