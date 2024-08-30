@@ -1,1 +1,1 @@
-rik442/prtg
+rik442/prtg:latest
