@@ -1,1 +1,1 @@
-rik442/prtg:24.1.92.1554
+v2fly/v2fly-core:latest
