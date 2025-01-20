@@ -1,1 +1,1 @@
-hou6807628/openwrt
+oxidized/oxidized:0.31.0-50-g7fb4f09
