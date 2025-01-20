@@ -1,1 +1,1 @@
-oxidized/oxidized:0.31.0-50-g7fb4f09
+mereith/van-nav:latest
