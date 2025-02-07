@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+ mariadb:10.11.6
