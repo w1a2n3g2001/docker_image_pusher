@@ -1,1 +1,1 @@
- mariadb:10.11.6
+laop/epicgames-claimer
