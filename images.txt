@@ -1,1 +1,1 @@
-xinyi02/epicgames-claimer
+nginx
