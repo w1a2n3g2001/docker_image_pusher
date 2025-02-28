@@ -1,1 +1,2 @@
-dreamacro/clash
+mariadb:10.2
+jrohy/trojan
