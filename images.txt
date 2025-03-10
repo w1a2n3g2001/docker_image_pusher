@@ -1,2 +1,1 @@
-mariadb:10.2
-jrohy/trojan
+zabbix/zabbix-agent2
