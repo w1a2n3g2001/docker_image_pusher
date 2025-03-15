@@ -1,1 +1,1 @@
-zabbix/zabbix-agent2
+zabbix/zabbix-agent
