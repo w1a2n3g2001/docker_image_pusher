@@ -1,7 +1,1 @@
-postgres:17-alpine
-minio/minio:RELEASE.2024-05-28T17-19-04Z
-rabbitmq:4.1-management
-docker.elastic.co/elasticsearch/elasticsearch:8.18.4
-openbas/platform:1.18.9
-openbas/collector-mitre-attack:1.18.9
-openbas/collector-openbas:1.18.9
+certbot/certbot
