@@ -1,1 +1,1 @@
-ghcr.io/senshinya/moontv:latest
+ghcr.io/senshinya/moontv:sha-d47b72a
