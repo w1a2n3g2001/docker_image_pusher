@@ -1,1 +1,1 @@
-apache/kvrocks
+ghcr.io/senshinya/moontv:latest
