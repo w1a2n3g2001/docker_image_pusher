@@ -1,1 +1,1 @@
-ghcr.io/senshinya/moontv:sha-d47b72a
+docker.n8n.io/n8nio/n8n
