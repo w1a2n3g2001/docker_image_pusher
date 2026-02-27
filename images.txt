@@ -1,1 +1,1 @@
-docker.io/debian:trixie-slim
+docker.io/oxidized/oxidized:latest
