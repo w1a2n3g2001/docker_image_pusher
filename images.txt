@@ -1,1 +1,5 @@
-mysql:5.7
+prom/node-exporter:v1.8.0
+grafana/grafana:9.3.16
+prom/alertmanager:v0.27.0
+lagoudocker/cadvisor:v0.37.0
+prom/prometheus:v2.45.5
