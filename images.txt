@@ -1,1 +1,1 @@
-oxidized/oxidized:latest
+louislam/uptime-kuma:2
