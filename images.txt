@@ -1,1 +1,1 @@
-timonwong/prometheus-webhook-wechat:latest
+rea1shane/a2w
