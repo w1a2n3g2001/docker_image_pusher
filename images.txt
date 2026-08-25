@@ -1,1 +1,1 @@
-prom/alertmanager
+timonwong/prometheus-webhook-wechat:latest
