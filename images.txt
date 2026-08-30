@@ -1,1 +1,2 @@
-rea1shane/a2w
+redis:latest
+ghcr.io/katelya77/katelyatv:latest
