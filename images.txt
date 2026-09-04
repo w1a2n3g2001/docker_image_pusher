@@ -1,1 +1,1 @@
-prom/snmp-exporter
+netsampler/goflow2
