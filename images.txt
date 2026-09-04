@@ -1,2 +1,1 @@
-redis:latest
-ghcr.io/katelya77/katelyatv:latest
+prom/snmp-exporter
