@@ -1,1 +1,1 @@
-netsampler/goflow2
+ntop/ntopng:stable
