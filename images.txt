@@ -1,1 +1,1 @@
-ntop/ntopng:stable
+ 101.35.154.35
