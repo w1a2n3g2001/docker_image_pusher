@@ -1,1 +1,1 @@
-teamspeak
+mariadb
